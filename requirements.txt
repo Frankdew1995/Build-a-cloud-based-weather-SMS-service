@@ -2,7 +2,7 @@ certifi==2019.3.9
 chardet==3.0.4
 geojson==2.4.1
 idna==2.8
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyowm==2.10.0
 PySocks==1.6.8
 pytz==2018.9
